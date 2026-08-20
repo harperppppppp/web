@@ -1,0 +1,58 @@
+nodejs설치
+
+
+C:\Users\EZEN>node -v
+v24.19.0
+
+C:\Users\EZEN>npm -v
+11.17.0
+
+cmd에서 설치 확인
+
+vscode껐다 켜기
+
+
+C:\박건영\react>npm -v
+11.17.0
+
+C:\박건영\react>npm create vite@latest my-app
+Need to install the following packages:
+create-vite@9.1.2
+Ok to proceed? (y) y
+
+> npx
+> create-vite my-app
+
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  TypeScript
+│
+◇  Which linter to use?
+│  Oxlint
+│
+◇  Install with npm and start now?
+│  Yes
+│
+◇  Scaffolding project in C:\박건영\react\my-app...
+│
+◇  Installing dependencies with npm...
+
+
+
+> local 사이트 만들어짐
+
+터미널에서 ctrl+c 
+
+일괄 작업을 끝내시겠습니까 (Y/N)? y
+> 서버 꺼둠
+
+
+C:\박건영\react\my-app>npm run dev
+>서버 다시 켜기
+
+React Developer Tools > 크롬 확장프로그램 추가
+
+node_modules >무거우니까 git에는 안올라가게 (삭제한다음나중에 설치or git_ignores폴더에넣어두기)

@@ -24,3 +24,7 @@
 .activeBtn:hover{
   border: 2px solid red;
 }
+
+.is-active{
+  background-color: yellow;
+}

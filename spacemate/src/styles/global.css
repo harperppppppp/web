@@ -32,7 +32,7 @@
   --font_action: "Hanken Grotesk", system-ui, sans-serif;
   --font_input: "Pretendard Variable", "Pretendard", system-ui, sans-serif;
   --font_status: "SF Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --focus_outline: 3px solid #ad3300;
+  --focus_outline: 3px solid #2e4f26;
 }
 
 /* 크기를 계산할 때 테두리와 안쪽 여백까지 width와 height 안에 포함합니다. */

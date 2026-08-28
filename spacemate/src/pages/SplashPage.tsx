@@ -1,5 +1,5 @@
 //비디오 내꺼로 바꾸기
-import onboardingVideo from "../assets/vid/on.mp4"
+import onboardingVideo from "../assets/vid/video-f4c065bf-1.mp4"
 import homeIndicator from "../assets/shared/ios_home_indicator.svg"
 import statusLevels from "../assets/shared/ios_status_levels.svg"
 import { BottomWrap } from "../components/BottomWrap"

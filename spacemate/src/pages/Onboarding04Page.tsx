@@ -19,7 +19,7 @@ export function Onboarding04Page({ onNext }: Onboarding04PageProps) {
       <TopWrap levelsSrc={statusLevels} />
       <div className={styles.main_area}>
         <div className={styles.final_copy}>
-          <h1>Your taste,<br />Your Space</h1>
+          <h1>Your Taste,<br />Your Space</h1>
           <p>당신의 취향을 바탕으로<br />가장 잘 어울리는 공간과 아이템을<br />추천해드릴게요.</p>
         </div>
         {/* 현재 첫 번째 안내 화면이며, 누르면 onNext가 실행됩니다. */}

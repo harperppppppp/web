@@ -85,3 +85,19 @@
 .screen_frame[data-screen="splash"] .ambient_glow {
   display: none;
 }
+
+/* Onboarding/03의 실제 Figma 배경은 따뜻한 #F9F3EC 단색입니다. */
+.screen_frame[data-screen="onboarding_03"] {
+  background: #f9f3ec;
+}
+
+.screen_frame[data-screen="onboarding_03"] .ambient_glow {
+  display: none;
+}
+
+@media (min-width: 402px) {
+  .screen_frame[data-screen="onboarding_03"] {
+    width: 402px;
+    margin-inline: auto;
+  }
+}
